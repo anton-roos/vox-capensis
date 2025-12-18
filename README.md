@@ -49,3 +49,59 @@ The scope will expand as additional sources are added.
   /translations     # Modern English translations
   /metadata         # Structured metadata (YAML/JSON)
 /notes              # Research notes, commentary, and context
+```
+
+Each document exists in **multiple layers**.  
+Original texts are never overwritten or “corrected”.
+
+## Editorial Principles
+
+- No silent corrections
+- Original spelling, punctuation, and structure are preserved
+- Damage, uncertainty, or ambiguity is explicitly marked  
+  (e.g. `[illegible]`, `<sic>`, `<blank>`)
+- Translations prioritise accuracy over stylistic polish
+- Interpretation and commentary are clearly separated from source text
+
+These principles are essential for scholarly and genealogical reliability.
+
+---
+
+## Collaboration
+
+Vox Capensis is intentionally open and collaborative.
+
+Contributions are welcome in the form of:
+- Additional transcriptions
+- Improved or alternative translations
+- Source verification and cross-referencing
+- Annotations and historical context
+- Indexing of names, places, ships, and dates
+
+Researchers affiliated with **eGGSA**, as well as independent contributors, are explicitly encouraged to participate.
+
+---
+
+## Why Plain Text?
+
+All material is stored as **UTF-8 LF plain text / Markdown** to ensure:
+
+- Long-term accessibility
+- Transparent version control and clean diffs
+- Full audit trails of changes
+- Searchability and future computational analysis
+- Freedom from proprietary formats
+- Consistent use of **LF (Unix-style) line endings**, avoiding CRLF
+
+This repository is intended to remain usable **decades into the future**.
+
+---
+
+## Long-Term Vision
+
+Vox Capensis aims to become:
+
+- A comprehensive corpus of early Cape church sources
+- A trusted citation base for genealogical and academic work
+- A collaborative bridge between private researchers and public heritage organisations
+- A model for responsible, open historical source preservation
