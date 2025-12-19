@@ -62,6 +62,7 @@ Original texts are never overwritten or “corrected”.
   (e.g. `[illegible]`, `<sic>`, `<blank>`)
 - Translations prioritise accuracy over stylistic polish
 - Interpretation and commentary are clearly separated from source text
+- Dates are ISO 8601 standard, unless from original transcription
 
 These principles are essential for scholarly and genealogical reliability.
 
