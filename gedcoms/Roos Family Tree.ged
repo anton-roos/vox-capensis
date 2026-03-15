@@ -1,0 +1,213 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.08
+2 _TREE Roos Family Tree
+3 RIN 207810925
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 21 Dec 2025
+2 TIME 09:52:40
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I112738972547@ INDI
+1 NAME Frederick Antonie /Roos/
+2 GIVN Frederick Antonie
+2 SURN Roos
+1 SEX M
+1 FAMC @F3@
+1 BIRT
+2 DATE 1995
+0 @I112738973028@ INDI
+1 NAME Susarah Magdalena /Jonker/
+2 GIVN Susarah Magdalena
+2 SURN Jonker
+1 SEX F
+1 FAMC @F5@
+1 FAMS @F3@
+1 BIRT
+2 DATE 16 May 1973
+2 PLAC Germiston, Gauteng, South Africa
+1 RESI
+2 PLAC Germiston, Gauteng, South Africa
+0 @I112738973066@ INDI
+1 NAME Jacques /Roos/
+2 GIVN Jacques
+2 SURN Roos
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F3@
+1 BIRT
+2 DATE 1970
+2 PLAC Germiston, Gauteng, South Africa
+1 RESI
+2 PLAC Germiston, Gauteng, South Africa
+0 @I112738973202@ INDI
+1 NAME Jacoba Petronella /De Jager/
+2 GIVN Jacoba Petronella
+2 SURN De Jager
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 1943
+2 PLAC Germiston, Gauteng, South Africa
+1 RESI
+2 PLAC Germiston, Gauteng, South Africa
+0 @I112739415941@ INDI
+1 NAME Petrus Johannes /Jonker/
+2 GIVN Petrus Johannes
+2 SURN Jonker
+1 SEX M
+1 FAMS @F5@
+1 BIRT
+2 DATE 4 Dec 1937
+2 PLAC Klerksdorp, North West South Africa, South Africa
+1 DEAT
+2 DATE 2021
+2 PLAC Brakpan, Gauteng, South Africa
+0 @I112739415995@ INDI
+1 NAME Frederik Antonie /Roos/
+2 GIVN Frederik Antonie
+2 SURN Roos
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F1@
+1 BIRT
+2 DATE 5 Dec 1938
+2 PLAC Germiston, Gauteng, South Africa
+1 DEAT
+2 DATE 5 Dec 2006
+2 PLAC Sunward Park, Gauteng, South Africa
+0 @I112739416115@ INDI
+1 NAME Susanna Hester /Van Dyk/
+2 GIVN Susanna Hester
+2 SURN Van Dyk
+1 SEX F
+1 FAMS @F1@
+1 BIRT
+2 DATE 16 Jan 1945
+2 PLAC Germiston, Gauteng, South Africa
+1 DEAT
+2 DATE 18 Apr 2024
+2 PLAC Alberton, Gauteng, South Africa
+0 @I112739416265@ INDI
+1 NAME Francois Johannes /Roos/
+2 GIVN Francois Johannes
+2 SURN Roos
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F4@
+1 BIRT
+2 DATE 7 Sep 1910
+2 PLAC Christiana, North West South Africa, South Africa
+1 DEAT
+2 DATE 11 September 1960
+2 PLAC Vereeniging, Gauteng, South Africa
+0 @I112739416340@ INDI
+1 NAME Maria Elizabeth /Nieuwenhuis/
+2 GIVN Maria Elizabeth
+2 SURN Nieuwenhuis
+1 SEX F
+1 FAMS @F4@
+1 BIRT
+2 DATE 1 Oct 1916
+2 PLAC Germiston, Gauteng, South Africa
+1 DEAT
+2 DATE 9 Sep 1977
+0 @I112739416423@ INDI
+1 NAME Jacobus Gerhardus /Roos/
+2 GIVN Jacobus Gerhardus
+2 SURN Roos
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F2@
+1 BIRT
+2 DATE 5 Mar 1855
+2 PLAC Wellington, Western Cape, South Africa
+1 DEAT
+2 DATE 29 Jul 1934
+2 PLAC Brits, North West South Africa, South Africa
+0 @I112739416515@ INDI
+1 NAME Martha Willemina /Delport/
+2 GIVN Martha Willemina
+2 SURN Delport
+1 SEX F
+1 FAMS @F2@
+1 BIRT
+2 DATE 22 Dec 1874
+1 DEAT
+2 DATE 12 August 1913
+2 PLAC Christiana, North West South Africa, South Africa
+0 @I112739416538@ INDI
+1 NAME Francois Gerhardus /Roos/
+2 GIVN Francois Gerhardus
+2 SURN Roos
+1 SEX M
+1 FAMS @F6@
+1 DEAT
+2 DATE 1888
+0 @I112739416553@ INDI
+1 NAME Maria Sophia /Horak/
+2 GIVN Maria Sophia
+2 SURN Horak
+1 SEX F
+1 FAMS @F6@
+0 @F1@ FAM
+1 HUSB @I112739415995@
+1 WIFE @I112739416115@
+1 CHIL @I112738973066@
+0 @F2@ FAM
+1 HUSB @I112739416423@
+1 WIFE @I112739416515@
+1 CHIL @I112739416265@
+0 @F3@ FAM
+1 HUSB @I112738973066@
+1 WIFE @I112738973028@
+1 CHIL @I112738972547@
+0 @F4@ FAM
+1 HUSB @I112739416265@
+1 WIFE @I112739416340@
+1 CHIL @I112739415995@
+0 @F5@ FAM
+1 HUSB @I112739415941@
+1 WIFE @I112738973202@
+1 CHIL @I112738973028@
+0 @F6@ FAM
+1 HUSB @I112739416538@
+1 WIFE @I112739416553@
+1 CHIL @I112739416423@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 328916
+3 _WDTH 1082
+3 _HGHT 1921
+2 TITL S3HY-6FM3-HYL
+1 _OID 06bbae69-0f36-457c-a887-0270d655f960
+1 _CREA 2025-12-21 09:38:49.684
+1 _USER MchWquvOtBtwJcYYzQPvI8ulGDgDRE8rWjgiLAX/Owg4acMaPNInc3BiYSLF3Ra2WUVyFNwlRxkgjobfIyt8Tg==
+2 _ENCR 1
+1 _CLON
+2 _TID 176017541
+2 _PID 272305129549
+2 _OID ec69fd67-3484-430e-8ae6-bac2d15b69a3
+2 _USER kq/ZA252GygxeJwo5ZbO8zygVea8RL1MO8DJD3Knjy05GvQ/FEgM/+1B1v6Xaxe0RQmQ92qHiyaICqCIjTTUSQ==
+3 _ENCR 1
+2 _DATE 2023-02-04 17:27:37.718
+1 _ORIG u
+1 _MSER
+2 _LKID ec69fd67-3484-430e-8ae6-bac2d15b69a3
+1 _ATL N
+0 TRLR

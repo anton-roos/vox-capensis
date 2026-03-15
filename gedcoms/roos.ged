@@ -1,0 +1,48 @@
+0 HEAD
+1 GEDC
+2 VERS 7.0
+1 CHAR UTF-8
+1 LANG en
+1 SOUR ChatGPT
+2 NAME ChatGPT GEDCOM Demo Generator
+2 VERS 1.0
+1 SUBM @U1@
+1 DATE 21 DEC 2025
+2 TIME 11:00:00
+1 FILE example.ged
+1 NOTE This is a human-readable note. GEDCOM has no true inline comments; use NOTE for commentary.
+0 @U1@ SUBM
+1 NAME Anton
+1 LANG en
+0 @I1@ INDI
+1 NAME Anton /Roos/
+2 GIVN Anton
+2 SURN Roos
+1 SEX M
+1 BIRT
+2 DATE 01 JAN 1990
+2 PLAC Johannesburg, Gauteng, South Africa
+1 FAMC @F1@
+1 NOTE You can stash “comments” like this as NOTE structures. Most software treats them as notes, not code comments.
+0 @I2@ INDI
+1 NAME Father /Roos/
+1 SEX M
+1 BIRT
+2 DATE 01 JAN 1960
+2 PLAC South Africa
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Mother /Roos/
+1 SEX F
+1 BIRT
+2 DATE 01 JAN 1962
+2 PLAC South Africa
+1 FAMS @F1@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 MARR
+2 DATE 01 JAN 1985
+2 PLAC South Africa
+0 TRLR
